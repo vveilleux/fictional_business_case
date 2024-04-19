@@ -1,0 +1,1 @@
+-- Create session_start event data
